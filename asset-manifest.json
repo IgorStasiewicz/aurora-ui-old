@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/IgorStasiewicz/aurora-ui-old/static/css/main.233f79a9.css",
-    "main.js": "/IgorStasiewicz/aurora-ui-old/static/js/main.0de7f708.js",
-    "static/media/4.JPEG": "/IgorStasiewicz/aurora-ui-old/static/media/4.acb19b22c0beb7666541.JPEG",
-    "static/media/kanapka vege.webp": "/IgorStasiewicz/aurora-ui-old/static/media/kanapka vege.a300f2a960bf8504199f.webp",
-    "static/media/kanapka z miesem.jpeg": "/IgorStasiewicz/aurora-ui-old/static/media/kanapka z miesem.851cd6eb11b31b2b467d.jpeg",
-    "static/media/5.jpeg": "/IgorStasiewicz/aurora-ui-old/static/media/5.d474d80806ef1902e08d.jpeg",
-    "static/media/_MG_0723.jpeg": "/IgorStasiewicz/aurora-ui-old/static/media/_MG_0723.0fe6961a982f3c3662f5.jpeg",
-    "static/media/1.jpg": "/IgorStasiewicz/aurora-ui-old/static/media/1.3fd098f76a6731cda9a1.jpg",
-    "static/media/3.jpg": "/IgorStasiewicz/aurora-ui-old/static/media/3.3e7a6057cd1ff4f03b8c.jpg",
-    "static/media/IMG_0063.jpg": "/IgorStasiewicz/aurora-ui-old/static/media/IMG_0063.3e7a6057cd1ff4f03b8c.jpg",
-    "static/media/kanapka z lososiem.jpeg": "/IgorStasiewicz/aurora-ui-old/static/media/kanapka z lososiem.e118466e421aacd4ca02.jpeg",
-    "static/media/2.jpg": "/IgorStasiewicz/aurora-ui-old/static/media/2.9f70ce250e14a2f6744e.jpg",
-    "static/media/aurora_wordl_logo_ost_CMYK-removebg-preview.png": "/IgorStasiewicz/aurora-ui-old/static/media/aurora_wordl_logo_ost_CMYK-removebg-preview.e2e78becbfcc095b512d.png",
-    "index.html": "/IgorStasiewicz/aurora-ui-old/index.html",
-    "main.233f79a9.css.map": "/IgorStasiewicz/aurora-ui-old/static/css/main.233f79a9.css.map",
-    "main.0de7f708.js.map": "/IgorStasiewicz/aurora-ui-old/static/js/main.0de7f708.js.map"
+    "main.css": "/aurora-ui-old/static/css/main.233f79a9.css",
+    "main.js": "/aurora-ui-old/static/js/main.ea45aaf2.js",
+    "static/media/4.JPEG": "/aurora-ui-old/static/media/4.acb19b22c0beb7666541.JPEG",
+    "static/media/kanapka vege.webp": "/aurora-ui-old/static/media/kanapka vege.a300f2a960bf8504199f.webp",
+    "static/media/kanapka z miesem.jpeg": "/aurora-ui-old/static/media/kanapka z miesem.851cd6eb11b31b2b467d.jpeg",
+    "static/media/5.jpeg": "/aurora-ui-old/static/media/5.d474d80806ef1902e08d.jpeg",
+    "static/media/_MG_0723.jpeg": "/aurora-ui-old/static/media/_MG_0723.0fe6961a982f3c3662f5.jpeg",
+    "static/media/1.jpg": "/aurora-ui-old/static/media/1.3fd098f76a6731cda9a1.jpg",
+    "static/media/3.jpg": "/aurora-ui-old/static/media/3.3e7a6057cd1ff4f03b8c.jpg",
+    "static/media/IMG_0063.jpg": "/aurora-ui-old/static/media/IMG_0063.3e7a6057cd1ff4f03b8c.jpg",
+    "static/media/kanapka z lososiem.jpeg": "/aurora-ui-old/static/media/kanapka z lososiem.e118466e421aacd4ca02.jpeg",
+    "static/media/2.jpg": "/aurora-ui-old/static/media/2.9f70ce250e14a2f6744e.jpg",
+    "static/media/aurora_wordl_logo_ost_CMYK-removebg-preview.png": "/aurora-ui-old/static/media/aurora_wordl_logo_ost_CMYK-removebg-preview.e2e78becbfcc095b512d.png",
+    "index.html": "/aurora-ui-old/index.html",
+    "main.233f79a9.css.map": "/aurora-ui-old/static/css/main.233f79a9.css.map",
+    "main.ea45aaf2.js.map": "/aurora-ui-old/static/js/main.ea45aaf2.js.map"
   },
   "entrypoints": [
     "static/css/main.233f79a9.css",
-    "static/js/main.0de7f708.js"
+    "static/js/main.ea45aaf2.js"
   ]
 }
