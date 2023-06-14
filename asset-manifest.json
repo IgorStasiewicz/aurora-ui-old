@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aurora-ui-old/static/css/main.233f79a9.css",
-    "main.js": "/aurora-ui-old/static/js/main.ea45aaf2.js",
+    "main.js": "/aurora-ui-old/static/js/main.1041b4bb.js",
     "static/media/4.JPEG": "/aurora-ui-old/static/media/4.acb19b22c0beb7666541.JPEG",
     "static/media/kanapka vege.webp": "/aurora-ui-old/static/media/kanapka vege.a300f2a960bf8504199f.webp",
     "static/media/kanapka z miesem.jpeg": "/aurora-ui-old/static/media/kanapka z miesem.851cd6eb11b31b2b467d.jpeg",
@@ -15,10 +15,10 @@
     "static/media/aurora_wordl_logo_ost_CMYK-removebg-preview.png": "/aurora-ui-old/static/media/aurora_wordl_logo_ost_CMYK-removebg-preview.e2e78becbfcc095b512d.png",
     "index.html": "/aurora-ui-old/index.html",
     "main.233f79a9.css.map": "/aurora-ui-old/static/css/main.233f79a9.css.map",
-    "main.ea45aaf2.js.map": "/aurora-ui-old/static/js/main.ea45aaf2.js.map"
+    "main.1041b4bb.js.map": "/aurora-ui-old/static/js/main.1041b4bb.js.map"
   },
   "entrypoints": [
     "static/css/main.233f79a9.css",
-    "static/js/main.ea45aaf2.js"
+    "static/js/main.1041b4bb.js"
   ]
 }
